@@ -30,8 +30,12 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-#### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+#### Blog
+[Visit my blog](https://harshshah.codes)
 
+### My Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshshah-codes&hide=contribs,prs&theme=nightowl)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshshah-codes)
 
