@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](https://github.com/harshshah-codes/harshshah-codes/blob/main/header.png)
 [![HitCount](https://hits.dwyl.com/harshshah-codes/harshshah-codes.svg?style=flat-square&show=unique)](http://hits.dwyl.com/harshshah-codes/harshshah-codes)
 
 
